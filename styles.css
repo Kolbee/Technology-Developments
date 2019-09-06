@@ -1,0 +1,23 @@
+html {
+  background-color: pink;
+  color: white;
+}
+
+h1 {
+  color: black;
+  font-family: 'Gayathri', sans-serif;
+  font-size: 56px;
+  text-align: center;
+}
+hr{
+  color: white;
+}
+.tech {
+  width:50%;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 28px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 550;
+}
